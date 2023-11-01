@@ -4,7 +4,8 @@
 🖥️ Currently diving into the world of Full-Stack Development.
 
 🔧 Skills: 3D CAD Design, Finite Element Analysis, Additive Manufacturing (including metals, polymers, organics, and across 7 AM platforms), DfAM, DoE
-🌐 Learning: HTML, CSS, JavaScript, Node.js, React, Database Management
+
+🌐 Learning: JavaScript, Node.js, React, Python, HTML, CSS, MongoDB
 
 🚀 Exploring software development to enhance automation and efficiency in AM processes.
 
