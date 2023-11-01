@@ -3,7 +3,7 @@
 🛠️ Mechanical & Additive Manufacturing Engineer
 🖥️ Currently diving into the world of Full-Stack Development.
 
-🔧 Skills: 3D CAD Design, Finite Element Analysis, Additive Manufacturing (including metals, polymers, organics, and across 7 AM platforms), DfAM, DoE
+🔧 Skills: 3D CAD Design, Finite Element Analysis, Additive Manufacturing (including metals, polymers, organics, and across 7 AM processes), DfAM, DoE
 
 🌐 Learning: JavaScript, Node.js, React, Python, HTML, CSS, MongoDB
 
