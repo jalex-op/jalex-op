@@ -1,7 +1,5 @@
-### Hi there 👋
 
 🛠️ Mechanical & Additive Manufacturing Engineer
-🖥️ Currently diving into the world of Full-Stack Development.
 
 🔧 Skills: 3D CAD Design, Finite Element Analysis, Additive Manufacturing (including metals, polymers, organics, and across 7 AM processes), DfAM, DoE
 
